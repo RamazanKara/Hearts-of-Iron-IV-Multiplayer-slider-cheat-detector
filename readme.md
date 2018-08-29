@@ -1,4 +1,8 @@
-# Hearts of Iron IV Multiplayer Slider Buff defector
+# Hearts of Iron IV Multiplayer Slider Buff detector
+
+## Usage
+
+Detects slider buff cheats on hoi multiplayer lobbies. Save the game, alt tab and run this script.
 
 ## Installation
 
