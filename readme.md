@@ -2,7 +2,7 @@
 
 ## Usage
 
-Detects slider buff cheats on hoi multiplayer lobbies. Save the game, alt tab and run this script.
+Detects slider buff cheats on hoi 4 multiplayer lobbies. Save the game, alt tab and run this script.
 
 ## Installation
 
